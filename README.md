@@ -25,9 +25,6 @@
 
 ## Contributing:
     Contributions are welcome! If you have ideas for additional Mad Libs templates or improvements to the code, feel free to open an issue or submit a pull request on GitHub.
-
-## License:
-    This code is provided under the MIT License.
-
+    
 ## Acknowledgments:
     This project was inspired by the classic Mad Libs game, providing entertainment and creativity through wordplay. Special thanks to the creators of Mad Libs and to the open-source community for their contributions to Python and programming libraries used in this project.
