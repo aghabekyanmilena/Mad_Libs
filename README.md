@@ -4,7 +4,7 @@
     This code is a Mad Libs generator, a game where players fill in the blanks of a story with their own words. Mad Libs typically consist of a pre-written story with placeholders for different types of words (e.g., nouns, adjectives, verbs), and players provide words to fill in these blanks, resulting in a humorous or nonsensical story when read aloud.
 
 ## Features:
-    Input: The code prompts the user to choose a Mad Libs template by entering a number between 1 and 3.
+    Input: The code prompts the user to choose a Mad Libs template by entering a number between 1 and 3 !.
 
     Template Selection: Based on the user's input, the code selects one of three predefined Mad Libs templates.
 
