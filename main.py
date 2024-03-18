@@ -78,7 +78,7 @@ for _ in range(100):
         mads3 = f"""Dear {name}, I am writing to you from a {adjective} castle in an enchanted forest. I found myself here one day after going for a ride on a {color} {animal} in {place}.
         There are {adjective2} {creature} and {adjective3} {creature} here! In the {room} there is a pool full of {noun}.
         I fall asleep each night on a {noun2} of {plural} and dream of {adjective4} {plural2}.
-        It feels as though I have lived here for {number} {measure_of_time}. I hope one day you can visit, although the only way to get here now is {verbing} on a {adjective5} {noun3}!!"""
+        It feels as though I have lived here for {number} {measure_of_time}! I hope one day you can visit, although the only way to get here now is {verbing} on a {adjective5} {noun3}!!"""
 
         print(mads3)
         break
